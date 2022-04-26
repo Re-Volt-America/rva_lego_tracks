@@ -1,0 +1,21 @@
+;----------------------------
+; Revolt .INF file structure
+;----------------------------
+
+NAME            'Alleyways Basic'
+STARTPOS        33000 -750 25500
+STARTROT        0
+STARTGRID       3
+DIFFICULTY	3
+FARCLIP         31000
+FOGSTART        25000
+FOGCOLOR        0 0 0
+VERTFOGSTART    0
+VERTFOGEND      0
+WORLDRGBPER     70
+MODELRGBPER     80
+INSTANCERGBPER  70
+STARTGRID	3
+SWEEPCAM 	1
+CHALLENGE	0 55 930
+MUSIC		'levels\alleyways_basic\custom'

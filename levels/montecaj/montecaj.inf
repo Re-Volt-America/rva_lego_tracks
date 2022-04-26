@@ -1,0 +1,23 @@
+;----------------------------
+; Revolt .INF file structure
+;----------------------------
+
+NAME            'Monte de Cajas'
+STARTPOS        14000.000000 0.000000 6000.000000
+STARTPOSREV     14000.000000 0.000000 6000.000000
+STARTROT        0.250000
+STARTROTREV     0.750000
+STARTGRID       3
+STARTGRIDREV    3
+FARCLIP         100000
+FOGSTART        80000
+FOGCOLOR        0 0 0
+VERTFOGSTART    0
+VERTFOGEND      0
+WORLDRGBPER     100
+MODELRGBPER     100
+INSTANCERGBPER  100
+DIFFICULTY	2
+TEXTUREPROPS 		8 1 1 1
+CHALLENGE  		1 00 000
+MUSIC		'levels\montecaj\chillout.mp3'

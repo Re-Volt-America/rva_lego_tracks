@@ -1,0 +1,33 @@
+{
+	
+	SPARK {
+	  ID              6
+	  Name            "Steam Big"
+	  CollideWorld    true
+	  CollideObject   false
+	  CollideCam      false
+	  HasTrail        false
+	  FieldAffect     false
+	  Spins           true
+	  Grows           false
+	  Additive        true
+	  Horizontal      false
+	  Size            3000 3000
+	  UV              0 0
+	  UVSize          0.25 0.25
+	  TexturePage     47
+	  Color           6 6 7
+	  Mass            0.0219
+	  Resistance      0.0015
+	  Friction        0.001
+	  Restitution     0
+	  LifeTime        10
+	  LifeTimeVar     0
+	  SpinRate        0.25
+	  SpinRateVar     1
+	  SizeVar         2
+	  GrowRate        120
+	  GrowRateVar     20
+	}
+	
+}
