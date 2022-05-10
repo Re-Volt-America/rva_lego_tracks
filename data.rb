@@ -6,6 +6,8 @@ module RVALegoTracks
   YEAR = 22
   MONTH = 4
   DAY = 26
-  VERSION = "#{YEAR}.#{MONTH < 10 ? "0#{MONTH}" : MONTH}#{DAY}"
+  REVISION = 1
+  SUFFIX = 'a'
+  VERSION = "#{YEAR}.#{MONTH < 10 ? "0#{MONTH}" : MONTH}#{DAY}#{SUFFIX}-#{REVISION}"
   URL = 'https://distribute.revolt-america.com/rva/rva_lego_tracks.zip'
 end
