@@ -14,11 +14,3 @@
 !/log/.keep
 !/tmp/.keep
 
-# Re-Volt Paintkits
-*.psd
-*.pdn
-*.xcf
-
-# Packaging
-*.zip
-packages.json
