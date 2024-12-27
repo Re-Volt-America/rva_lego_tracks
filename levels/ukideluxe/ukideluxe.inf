@@ -1,0 +1,20 @@
+;----------------------------
+; Revolt .INF file structure
+;----------------------------
+
+NAME            'Uki Ñiki DELUXE'
+GAMETYPE        0
+STARTPOS        1000.000000 0.000000 7000.000000
+STARTROT        0.000000
+ENDPOS          0.000000 0.000000 0.000000
+STARTGRID       3
+STARTGRIDREV    3
+FARCLIP         10000
+FOGSTART        8000
+FOGCOLOR        0 0 0
+VERTFOGSTART    0
+VERTFOGEND      0
+WORLDRGBPER     100
+MODELRGBPER     100
+INSTANCERGBPER  100
+MUSIC           levels\ukideluxe\snd

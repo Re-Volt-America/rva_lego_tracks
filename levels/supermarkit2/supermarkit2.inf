@@ -1,0 +1,22 @@
+;----------------------------
+; Revolt .INF file structure
+;----------------------------
+ 
+NAME            	'SuperMarkit 2'
+STARTPOS        	3878 -500 2000
+STARTPOSREV        	3961 -500 3575
+STARTROT        	0
+STARTROTREV        	0.5
+STARTGRID      		0
+FOGSTART        	22000
+FARCLIP        		24000
+FOGCOLOR      		80 144 192
+VERTFOGSTART   		0
+VERTFOGEND     		0
+MUSIC			'levels\supermarkit2\markit.mp3'
+REDBOOK 		4 9
+WORLDRGBPER    		90
+MODELRGBPER     	90
+DIFFICULTY 		4
+CHALLENGE  		0 16 500
+CHALLENGEREV  		0 16 800
